@@ -42,10 +42,6 @@ let g:ctrlp_custom_ignore = {
   \ 'file': '\v\.(exe|so|dll)$'
   \ }
 
-" Nested Braces, Parentheses and so on...
-:inoremap ( ()<Esc>i
-:inoremap [ []<Esc>i
-:inoremap { {}<Esc>i
 
-
-
+" Line Numbers
+:set number
