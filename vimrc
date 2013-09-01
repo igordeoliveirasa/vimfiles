@@ -6,4 +6,4 @@ call pathogen#infect()
 
 silent! nmap <silent> <Leader>p :NERDTreeToggle<CR>
 
-
+set backspace=2

@@ -1,0 +1,1 @@
+cp ~/.vim/vimrc ~/.vimrc;

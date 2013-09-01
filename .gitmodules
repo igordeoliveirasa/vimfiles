@@ -7,3 +7,12 @@
 [submodule "bundle/vim-misc"]
 	path = bundle/vim-misc
 	url = https://github.com/xolox/vim-misc
+[submodule "bundle/vim-ruby"]
+	path = bundle/vim-ruby
+	url = https://github.com/vim-ruby/vim-ruby.git
+[submodule "/Users/igor/.vim/bundle/vundle"]
+	path = /Users/igor/.vim/bundle/vundle
+	url = https://github.com/gmarik/vundle.git
+[submodule "bundle/ack"]
+	path = bundle/ack
+	url = https://github.com/mileszs/ack.vim.git
