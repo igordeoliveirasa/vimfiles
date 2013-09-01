@@ -1,6 +1,9 @@
  
 call pathogen#infect()
 
+" Highlight Cursor Line
+:set cursorline
+
 " Ruby Vim
 set nocompatible      " We're running Vim, not Vi!
 syntax on             " Enable syntax highlighting
@@ -21,7 +24,7 @@ silent! nmap <silent> <Leader>p :NERDTreeToggle<CR>
 set backspace=2
 
 " Session Manager
-:let g:session_autosave = 'yes'
+" :let g:session_autosave = 'yes'
 
 " Themes
 " colorscheme railscasts
