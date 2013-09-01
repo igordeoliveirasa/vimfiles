@@ -1,6 +1,6 @@
 " ~/.vim/sessions/default.vim:
 " Vim session script.
-" Created by session.vim 2.4.8 on 01 Setembro 2013 at 09:32:23.
+" Created by session.vim 2.4.8 on 01 Setembro 2013 at 09:47:12.
 " Open this file in Vim and run :source % to restore your session.
 
 set guioptions=egmrL
@@ -24,7 +24,7 @@ if expand('%') == '' && !&modified && line('$') <= 1 && getline(1) == ''
   let s:wipebuf = bufnr('%')
 endif
 set shortmess=aoO
-" args .
+silent! argdel *
 set splitbelow splitright
 set nosplitbelow
 set nosplitright

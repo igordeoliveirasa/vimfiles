@@ -26,7 +26,3 @@ set backspace=2
 " Themes
 " colorscheme railscasts
 colorscheme molokai
-
-" Molokai
-" g:molokai_original = 1
-g:rehash256 = 1
