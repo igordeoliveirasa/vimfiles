@@ -7,7 +7,9 @@ syntax on             " Enable syntax highlighting
 filetype on           " Enable filetype detection
 filetype indent on    " Enable filetype-specific indenting
 filetype plugin on    " Enable filetype-specific plugins
-
+set expandtab
+set tabstop=2 shiftwidth=2 softtabstop=2
+set autoindent
 
 " PeepOpen uses <Leader>p as well so you will need to redefine it so something
 " else in your ~/.vimrc file, such as:
@@ -19,4 +21,5 @@ silent! nmap <silent> <Leader>p :NERDTreeToggle<CR>
 set backspace=2
 
 " Session Manager
-:let g:session_autosave = 'no'
+:let g:session_autosave = 'yes'
+colorscheme railscasts
