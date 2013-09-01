@@ -22,4 +22,11 @@ set backspace=2
 
 " Session Manager
 :let g:session_autosave = 'yes'
-colorscheme railscasts
+
+" Themes
+" colorscheme railscasts
+colorscheme molokai
+
+" Molokai
+" g:molokai_original = 1
+g:rehash256 = 1
