@@ -1,4 +1,3 @@
- 
 call pathogen#infect()
 
 " Highlight Cursor Line
