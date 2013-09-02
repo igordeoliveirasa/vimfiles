@@ -25,7 +25,7 @@ vimfiles
 <li>
 <h3>Using</h3>
 <p>Type the command: <strong>mvim</strong> in your terminal</p>
-<p>And... Feel like if you were the most fucking programmer of the world :)</p>
+<p>And... Feel like if you were the most wonderful fucking programmer of the world :)</p>
 </li>
 
 </ul>
