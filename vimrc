@@ -1,4 +1,3 @@
-
 call pathogen#infect()
 
 " Highlight Cursor Line
@@ -45,3 +44,8 @@ let g:ctrlp_custom_ignore = {
 
 " Line Numbers
 :set number
+
+" Hide scrollbar
+:set guioptions-=r  "remove right-hand scroll bar
+:set guioptions-=l  "remove scrollbar
+:set guioptions-=L  "remove scrollbar
