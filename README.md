@@ -19,7 +19,7 @@ vimfiles
 <h3>Configuring</h3>
 <p>Enter into .vim folder: <strong>~/.vim</strong></p>
 <p>Set configure.sh as executable: <strong>chmod +x configure.sh</strong></p>
-<p>Run the configure.sh <strong>./configure.sh</strong></p>
+<p>Run the configure.sh: <strong>./configure.sh</strong></p>
 </li>
 
 <li>
