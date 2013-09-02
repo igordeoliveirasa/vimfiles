@@ -5,7 +5,7 @@ vimfiles
 <ul>
 
 <li>
-<h3>Pre-Requisites</h3>
+<h3>Prerequisites</h3>
 <p>Remove old vim's configurations: <strong>rm -rf ~/.vim*</strong></p>
 <p>Install Mac Vim: <strong>brew install macvim</strong></p>
 </li>
