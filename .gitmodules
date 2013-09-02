@@ -10,9 +10,6 @@
 [submodule "bundle/vim-ruby"]
 	path = bundle/vim-ruby
 	url = https://github.com/vim-ruby/vim-ruby.git
-[submodule "bundle/vundle"]
-	path = bundle/vundle
-	url = https://github.com/gmarik/vundle.git
 [submodule "bundle/ack"]
 	path = bundle/ack
 	url = https://github.com/mileszs/ack.vim.git
