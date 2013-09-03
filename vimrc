@@ -63,3 +63,6 @@ let g:pymode_rope_guess_project = 0 " fasten autocompletion
 
 " Shows the command keys on the right side
 set showcmd
+
+" highlight selected word with clicking twice
+map <2-leftmouse> \m  
