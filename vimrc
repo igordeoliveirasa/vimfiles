@@ -45,3 +45,17 @@ let g:ctrlp_custom_ignore = {
 
 " Line Numbers
 :set number
+
+" turn off needless toolbar
+set guioptions-=m
+set guioptions-=T
+" turn off scrolls
+set guioptions-=L
+set guioptions-=r
+
+" python-mode plugin configure
+let g:pymode_lint = 0 " disable code checking
+let g:pymode_rope = 1 " Load rope plugin (refactoring)
+let g:pymode_rope_autocomplete_map = '<C-Space>' " Map keys for autocompletion
+let g:pymode_folding = 0 " Enable python folding
+let g:pymode_rope_guess_project = 0 " fasten autocompletion
