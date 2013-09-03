@@ -31,3 +31,6 @@
 [submodule "bundle/python-mode"]
 	path = bundle/python-mode
 	url = https://github.com/klen/python-mode
+[submodule "bundle/openurl"]
+	path = bundle/openurl
+	url = https://github.com/vim-scripts/openurl.vim
