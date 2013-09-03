@@ -66,3 +66,13 @@ set showcmd
 
 " highlight selected word with clicking twice
 map <2-leftmouse> \m  
+
+" space between lines
+set linespace=4
+
+" highlight search results
+set hlsearch
+
+" session manager
+:let g:session_autoload='yes'
+:let g:session_autosave='yes'
