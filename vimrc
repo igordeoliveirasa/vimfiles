@@ -49,6 +49,7 @@ let g:ctrlp_custom_ignore = {
 :set guioptions-=r  "remove right-hand scroll bar
 :set guioptions-=l  "remove scrollbar
 :set guioptions-=L  "remove scrollbar
+
 " turn off needless toolbar
 set guioptions-=m
 set guioptions-=T
@@ -59,3 +60,6 @@ let g:pymode_rope = 1 " Load rope plugin (refactoring)
 let g:pymode_rope_autocomplete_map = '<C-Space>' " Map keys for autocompletion
 let g:pymode_folding = 0 " Enable python folding
 let g:pymode_rope_guess_project = 0 " fasten autocompletion
+
+" Shows the command keys on the right side
+set showcmd
