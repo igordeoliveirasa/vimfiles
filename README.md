@@ -8,6 +8,7 @@ vimfiles
 <h3>Prerequisites</h3>
 <p>Remove old vim's configurations: <strong>rm -rf ~/.vim*</strong></p>
 <p>Install Mac Vim: <strong>brew install macvim</strong></p>
+<p>Install Ack: <strong>brew install ack</strong></p>
 </li>
 
 <li>
