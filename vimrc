@@ -66,3 +66,6 @@ set showcmd
 
 " highlight selected word with clicking twice
 map <2-leftmouse> \m  
+
+" Group the backup files (swp) in a directory
+set backupdir=./.backup
