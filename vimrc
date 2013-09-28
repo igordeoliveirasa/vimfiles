@@ -72,7 +72,3 @@ set linespace=4
 
 " highlight search results
 set hlsearch
-
-" session manager
-:let g:session_autoload='yes'
-:let g:session_autosave='yes'
